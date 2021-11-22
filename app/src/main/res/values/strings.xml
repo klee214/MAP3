@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Assignment3</string>
+    <string name="q1">Is Canada the biggest country?</string>
+    <string name="q2">Does Canadian speak English?</string>
+    <string name="q3">Is Professor Arbash cool?</string>
+    <string name="q4">Will professor give me good mark?</string>
+    <string name="q5">Is Seneca College good?</string>
+    <string name="q6">Is Android better than iOS?</string>
+    <string name="q7">Is Canada a good country?</string>
+    <string name="q8">Is this assignment 3 difficult??</string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">어싸 3</string>
+    <string name="q1">캐나다 젤큼?</string>
+    <string name="q2">캐나다 영어씀?</string>
+    <string name="q3">선생 존멋?</string>
+    <string name="q4">선생 점수 잘줌?</string>
+    <string name="q5">세네카 좋은 대학?</string>
+    <string name="q6">갤럭시 아이폰보다 좋음?</string>
+    <string name="q7">캐나다 좋음?</string>
+    <string name="q8">어싸 어렵나??</string>
+</resources>
